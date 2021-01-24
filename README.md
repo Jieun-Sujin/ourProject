@@ -1,17 +1,19 @@
 # ourProject
 
 ### 사용자 인터랙션 시나리오
-맞춤형 카페 선택 서비스
+맞춤형 카페 선택 서비스  & 음료 메뉴에 따른 가격 비교
 
-![scenario_1](https://user-images.githubusercontent.com/52409424/105623628-88ccec00-5e5e-11eb-96d6-b702ae4eb1fa.png){: width="100" height="100"}
+<img src="https://user-images.githubusercontent.com/52409424/105623628-88ccec00-5e5e-11eb-96d6-b702ae4eb1fa.png" width="40%" align="left"/> <img src="https://user-images.githubusercontent.com/52409424/105623682-d5b0c280-5e5e-11eb-9778-bead9ff1f21c.png" width="40%" align="right">
 
-음료 메뉴에 따른 가격 비교
-![scenario_2](https://user-images.githubusercontent.com/52409424/105623682-d5b0c280-5e5e-11eb-9778-bead9ff1f21c.png){: width="100" height="100"}
+
+* 테이블 종류(1인석, 2-4인석, 6인석 이상) 별로 실시간 잔여 좌석수를 보여준다
+* 사용자가 선택한 옵션( 브랜드, 현재 사용 가능한 콘센트 수, 화장실 유무 등)에 해당하는 맞춤형 카페 정보를 제공한다
+* 검색한 음료와 선택한 가격 대에 해당하는 카페 정보를 제공한다.
 
 
 ### DB SCHEMA
-![uml](https://user-images.githubusercontent.com/52409424/105623639-984c3500-5e5e-11eb-8296-85d0232ae78a.png)
-![schema](https://user-images.githubusercontent.com/52409424/105623729-46f07580-5e5f-11eb-8985-6e4fa09c306e.png)
+
+<img src="https://user-images.githubusercontent.com/52409424/105623639-984c3500-5e5e-11eb-8296-85d0232ae78a.png" width="40%" align="left"/> <img src="https://user-images.githubusercontent.com/52409424/105623729-46f07580-5e5f-11eb-8985-6e4fa09c306e.png" width="40%" align="right">
 
 
 ### 개발환경
