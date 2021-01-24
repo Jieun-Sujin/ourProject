@@ -6,11 +6,9 @@
 그래서 실시간으로 카페의 남은 좌석을 보여주고 자신이 원하는 조건(주차장, 화장실등 .. )을 검색하여 사용자가 적합한 카페를 찾을 수 있도록 해준다
 
 ### 사용자 인터랙션 시나리오
-
-<p align="center">
-  <strong>맞춤형 카페 선택 서비스  &   음료 메뉴에 따른 가격 비교 </strong>
-  <img src="https://user-images.githubusercontent.com/52409424/105623628-88ccec00-5e5e-11eb-96d6-b702ae4eb1fa.png" width="50%" height="455">
-  <img src="https://user-images.githubusercontent.com/52409424/105623682-d5b0c280-5e5e-11eb-9778-bead9ff1f21c.png" width="50%" height="455">
+<strong>맞춤형 카페 선택 서비스  &   음료 메뉴에 따른 가격 비교 </strong>
+<p align="left" height ="30%">
+  <img src="https://user-images.githubusercontent.com/52409424/105623628-88ccec00-5e5e-11eb-96d6-b702ae4eb1fa.png" width="50%"/><img src="https://user-images.githubusercontent.com/52409424/105623682-d5b0c280-5e5e-11eb-9778-bead9ff1f21c.png" width="50%">
 </p>
 
 * 테이블 종류(1인석, 2-4인석, 6인석 이상) 별로 실시간 잔여 좌석수를 보여준다
@@ -20,9 +18,8 @@
 
 ### DB SCHEMA
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/52409424/105623639-984c3500-5e5e-11eb-8296-85d0232ae78a.png" width="50%" height="455">
-  <img src="https://user-images.githubusercontent.com/52409424/105623729-46f07580-5e5f-11eb-8985-6e4fa09c306e.png" width="50%" height="455">
+<p align="center" height ="30%">
+  <img src="https://user-images.githubusercontent.com/52409424/105623639-984c3500-5e5e-11eb-8296-85d0232ae78a.png" width="50%"/><img src="https://user-images.githubusercontent.com/52409424/105623729-46f07580-5e5f-11eb-8985-6e4fa09c306e.png" width="50%">
 </p>
 
 
